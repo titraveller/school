@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2021-11-13T13:52:23.747Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36 Edg/95.0.1020.44" etag="ZKOjXZejqEaGXNtljr62" version="15.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-13T13:53:10.990Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36 Edg/95.0.1020.44" etag="3cqxAm3o3CsThpK26csl" version="15.7.3" type="github">
   <diagram id="a_wQqL2StiPa3Z0Tulsf" name="Page-1">
     <mxGraphModel dx="1902" dy="1117" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="4yGCZVgv8CrZc4bkIzHK-4" value="Image segmentation framework" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;sketch=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="449" y="-241" width="326" height="49" as="geometry" />
+          <mxGeometry x="404" y="-243" width="326" height="49" as="geometry" />
         </mxCell>
         <mxCell id="4yGCZVgv8CrZc4bkIzHK-6" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;sketch=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="-1" y="-167" width="437" height="173" as="geometry" />
