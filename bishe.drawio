@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-04-30T10:14:03.902Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="3h4Sya3CkaORaTrg-JSU" version="21.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-30T10:17:37.343Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="HWcwFUA6TAQm-LKKqD7F" version="21.2.3" type="github">
   <diagram name="第 1 页" id="YJiK9o5yAaymN7a-T952">
-    <mxGraphModel dx="2759" dy="2916" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2967" dy="3024" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -445,6 +445,15 @@
         </mxCell>
         <mxCell id="7uNUw5v9WBHCfKW_DW9N-468" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontFamily=Helvetica;fontSize=12;fillColor=#C71F38;" vertex="1" parent="7uNUw5v9WBHCfKW_DW9N-462">
           <mxGeometry x="15.5" y="26" width="115" height="17" as="geometry" />
+        </mxCell>
+        <mxCell id="7uNUw5v9WBHCfKW_DW9N-471" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="507" y="-804" width="331.00006103515625" height="107" as="geometry" />
+        </mxCell>
+        <mxCell id="7uNUw5v9WBHCfKW_DW9N-472" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#D5E8D4;glass=0;shadow=0;" vertex="1" parent="7uNUw5v9WBHCfKW_DW9N-471">
+          <mxGeometry x="1" y="3" width="146" height="104" as="geometry" />
+        </mxCell>
+        <mxCell id="7uNUw5v9WBHCfKW_DW9N-475" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;&lt;i&gt;gpt mini&lt;/i&gt;&lt;/b&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="7uNUw5v9WBHCfKW_DW9N-471">
+          <mxGeometry x="44" y="44" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
